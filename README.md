@@ -3,8 +3,8 @@
 - 👩‍💼👩‍💻 estudante do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 - 👩‍💼🖌 Designer gráfica at LOUDggPE and Spot Gaming
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spritze&theme=radical&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Spritze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCristine&theme=radical&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriCristine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
