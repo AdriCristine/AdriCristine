@@ -1,7 +1,7 @@
 ## Olá Pessoal! Adrieli Cristine 👋
 
 - 👩‍💼👩‍💻 estudante do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
-- 👩‍💼🖌 Designer gráfica at LOUDggPE and Spot Gaming
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCristine&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriCristine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
